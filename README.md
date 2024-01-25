@@ -22,4 +22,6 @@ generateBtn: A variable linked to the generate button on our webpage.
 writePassword(): The main function that handles password generation.
 addEventListener: Listens for a click event on the generate button and calls writePassword().
 
-## Link >
+## Link > https://sandhu559.github.io/Isharchallenege3/
+
+
